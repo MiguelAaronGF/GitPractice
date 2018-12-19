@@ -10,5 +10,7 @@ package gitpractice;
  * @author dawmi
  */
 public class B {
-    
+    public static void world(){
+        System.out.print("World");
+    }
 }
